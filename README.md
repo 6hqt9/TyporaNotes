@@ -1,2 +1,2 @@
 # TyporaNotes
-用于Typora笔记图床
+Java学习Typora笔记
